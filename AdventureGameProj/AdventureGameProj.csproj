@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,126 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page99.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\784275_WP-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bkgd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bkgd1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crashsound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\endsound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\growlsound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyfallsound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keysound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scream1sound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scream2sound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\walksound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windsound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stepsound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doorsound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\victorysound.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
