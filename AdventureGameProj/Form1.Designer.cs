@@ -102,7 +102,7 @@
             // 
             this.option3Button.BackColor = System.Drawing.Color.Transparent;
             this.option3Button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.option3Button.Image = global::AdventureGameProj.Properties.Resources._784275_WP_removebg_preview;
+            this.option3Button.Image = global::AdventureGameProj.Properties.Resources.cursor;
             this.option3Button.Location = new System.Drawing.Point(97, 462);
             this.option3Button.Name = "option3Button";
             this.option3Button.Size = new System.Drawing.Size(58, 50);
@@ -115,7 +115,7 @@
             // 
             this.option2Button.BackColor = System.Drawing.Color.Transparent;
             this.option2Button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.option2Button.Image = global::AdventureGameProj.Properties.Resources._784275_WP_removebg_preview;
+            this.option2Button.Image = global::AdventureGameProj.Properties.Resources.cursor;
             this.option2Button.Location = new System.Drawing.Point(97, 393);
             this.option2Button.Name = "option2Button";
             this.option2Button.Size = new System.Drawing.Size(58, 50);
@@ -128,7 +128,7 @@
             // 
             this.option1Button.BackColor = System.Drawing.Color.Transparent;
             this.option1Button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.option1Button.Image = global::AdventureGameProj.Properties.Resources._784275_WP_removebg_preview;
+            this.option1Button.Image = global::AdventureGameProj.Properties.Resources.cursor;
             this.option1Button.Location = new System.Drawing.Point(97, 324);
             this.option1Button.Name = "option1Button";
             this.option1Button.Size = new System.Drawing.Size(58, 50);

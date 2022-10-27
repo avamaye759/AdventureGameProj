@@ -96,7 +96,7 @@ namespace AdventureGameProj
                     keyfallplayer.Play();
                     break;
                 case 5:
-                    outputLabel.Text = "You open the unlocked door instead. It leads to a dark courtyard with a large pool.";
+                    outputLabel.Text = "You open the unlocked door instead. It leads to a courtyard with a large pool.";
                     option1Label.Text = "go for a swim";
                     option2Label.Text = "look for a way out";
                     option3Label.Text = "";
@@ -143,7 +143,7 @@ namespace AdventureGameProj
                 case 10:
                     outputLabel.Text = "You head on down the dark hallway and make your way onto a large balcony.";
                     option1Label.Text = "jump down to the ground";
-                    option2Label.Text = "scale the walls to the ground";
+                    option2Label.Text = "try to scale the walls to the ground";
                     option3Label.Text = "go back";
                     option3Button.Enabled = true;
                     pictureBox1.Image = Properties.Resources.page10;
