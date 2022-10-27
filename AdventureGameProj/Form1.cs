@@ -114,7 +114,7 @@ namespace AdventureGameProj
                     walkplayer.Play();
                     break;
                 case 7:
-                    outputLabel.Text = "You go up the stairs to the right and come upon three strange objects";
+                    outputLabel.Text = "You go up the stairs to the right and come upon three strange objects.";
                     option1Label.Text = "pick up the silver dagger";
                     option2Label.Text = "pick up the glass vial";
                     option3Label.Text = "pick up the wooden stake";
@@ -232,7 +232,7 @@ namespace AdventureGameProj
                     victoryplayer.Play();
                     break;
                 case 20:
-                    outputLabel.Text = "You were killed by a very tired and annoyed vampire! Play again";
+                    outputLabel.Text = "You were killed by a very tired and annoyed vampire! Play again?";
                     option1Label.Text = "yes";
                     option2Label.Text = "no";
                     option3Label.Text = "";
