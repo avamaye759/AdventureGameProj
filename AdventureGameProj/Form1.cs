@@ -26,6 +26,8 @@ namespace AdventureGameProj
 
         public Form1()
         {
+            //creating initial startup screen
+
             InitializeComponent();
             outputLabel.Text = "You are trapped in the vampire mansion! Where do you go first?";
             option1Label.Text = "hallway";
